@@ -1,8 +1,7 @@
 # SHELDON EATS
 
 
-![](https://github.com/lpangaro/GAME/blob/main/juego.png)
-![](https://github.com/lpangaro/GAME/blob/main/burbuja.png)
+![](https://github.com/lpangaro/SheldonEats/blob/main/img/juego.png)
 
 # REGLAS
 ## Peces que Sheldon puede comer 
